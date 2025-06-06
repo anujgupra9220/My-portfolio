@@ -34,7 +34,7 @@ This is a responsive portfolio website built using **HTML**, **CSS**, and **Java
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+    https://github.com/anujgupra9220/My-portfolio.git
    ```
 
 2. Navigate to the folder:
@@ -59,4 +59,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-- **Anuj Prasad Gupta** – [Your LinkedIn or GitHub Profile](https://github.com/yourusername)
+- **Anuj Prasad Gupta** – [LinkedIn](https://www.linkedin.com/in/anuj-prasad-gupta-34ba86307/)
